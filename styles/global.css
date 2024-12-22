@@ -10,6 +10,7 @@ body {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 400;
+  color: #000;
   background-color: #fff;
 }
 
@@ -38,8 +39,4 @@ img {
 
 button {
   font: inherit;
-}
-
-.content-section {
-  margin-bottom: 180px;
 }
