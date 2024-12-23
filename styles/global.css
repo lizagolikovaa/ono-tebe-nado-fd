@@ -40,3 +40,8 @@ img {
 button {
   font: inherit;
 }
+
+.text__style-global {
+  color: #fff;
+  text-transform: uppercase;
+}
