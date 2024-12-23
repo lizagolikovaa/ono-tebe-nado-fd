@@ -244,6 +244,14 @@
   padding: 0 50px 82px;
 }
 
+.footer__address-list-item {
+  list-style: none;
+}
+
+.footer__links-list-item {
+  list-style: none;
+}
+
 .address {
   display: flex;
   flex-direction: row;
