@@ -99,8 +99,10 @@
 }
 
 .bet-button {
+  appearance: none;
   background-color: transparent;
   border-color: #fff;
+  border-width: thin;
   padding: 12px 32px;
 }
 
@@ -120,7 +122,7 @@
 
 .lots__card-list {
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
   gap: 25px;
   flex-wrap: wrap;
 }
@@ -260,7 +262,6 @@
 
 .footer__menu-list {
   display: flex;
-  flex-direction: row;
   gap: 48px;
   justify-self: end;
   min-width: 240px;
