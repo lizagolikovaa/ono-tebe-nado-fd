@@ -70,11 +70,13 @@
 
 .aligned-text_center {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 15px;
+  margin-left: 25px;
 }
 
 .aligned-text_right {
   text-align: end;
+  margin-top: 10px;
 }
 
 .no-letter-spacing {
@@ -85,13 +87,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 120px;
+  margin-top: 110px;
 }
 
 .cover__description-text {
   font-size: 22px;
   font-weight: 400;
-  word-spacing: 20px;
+  word-spacing: 18px;
 }
 
 .bet-button {
