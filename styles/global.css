@@ -46,3 +46,21 @@ button {
   text-transform: uppercase;
 }
 
+.address {
+  font-style: normal;
+  text-decoration: none;
+  line-height: 1.3;
+  align-self: flex-start;
+}
+
+.address-list {
+  list-style: none;
+}
+
+.address-list-item {
+  line-height: 1.3;
+}
+
+.address-list-item-no-wrap {
+  white-space: nowrap;
+}
