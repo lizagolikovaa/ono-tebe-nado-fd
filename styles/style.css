@@ -39,14 +39,14 @@
 }
 
 .cover {
-    min-height: 757px;
-    padding: 165px 50px 50px;
-    background-image: url(../images/cover.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    position: relative;
-    z-index: 1;
+  min-height: 757px;
+  padding: 165px 50px 50px;
+  background-image: url(../images/cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  z-index: 1;
 }
 
 .overlay {
@@ -216,8 +216,8 @@
 }
 
 .about__section {
-  height: auto;
   justify-self: end;
+  height: auto;
 }
 
 .about__title {
