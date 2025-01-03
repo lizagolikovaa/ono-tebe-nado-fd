@@ -234,6 +234,7 @@
 }
 
 .about__text-top {
+  max-width: 688px;
   margin-bottom: 24px;
 }
 
