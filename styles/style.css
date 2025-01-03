@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  min-height: auto;
+  height: auto;
   padding: 92px 50px;
 }
 
@@ -194,7 +194,7 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   align-items: center;
-  min-height: auto;
+  height: auto;
 }
 
 .about__logo {
@@ -216,7 +216,7 @@
 }
 
 .about__section {
-  min-height: 480px;
+  height: auto;
   justify-self: end;
 }
 
@@ -230,7 +230,6 @@
 
 .about__text {
   font-size: 20px;
-  max-width: 693px;
 }
 
 .about__text-top {
@@ -238,11 +237,15 @@
   margin-bottom: 24px;
 }
 
+.about__text-bottom {
+  max-width: 693px;
+}
+
 .footer {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  min-height: auto;
+  height: auto;
   margin-top: 180px;
   padding: 0 50px 82px;
 }
